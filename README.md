@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vanmartinx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React Typescript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Javascript, React, Typescript, .NET, C#
+- 🌱 I’m currently learning React Typescript Webpack
+- 💞️ I’m looking to collaborate on numerous projects with you
+- 📫 How to reach me? Here's my email karlfred.martinez@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: uhm 🙈
 
 <!---
 vanmartinx/vanmartinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

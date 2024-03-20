@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on numerous projects with you
 - 📫 How to reach me? Here's my email karlfred.martinez@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: uhm 🙈
+- ⚡ Fun fact: Not fun
 
 <!---
 vanmartinx/vanmartinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
